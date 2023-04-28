@@ -12,4 +12,4 @@
 - [ArchitecturalDesign](./ArchitecturalDesign/index.md)
   - [Layered architecture](./ArchitecturalDesign/3.1.md)
   - [Component diagram](./ArchitecturalDesign/3.2.md)
-  
+- [Test report](./Testing/index.md)
